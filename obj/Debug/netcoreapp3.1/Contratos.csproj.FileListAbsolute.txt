@@ -1,0 +1,13 @@
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.csprojAssemblyReference.cache
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.csproj.CoreCompileInputs.cache
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.AssemblyInfoInputs.cache
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.AssemblyInfo.cs
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.exe
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.deps.json
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.runtimeconfig.json
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.runtimeconfig.dev.json
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.dll
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\bin\Debug\netcoreapp3.1\Contratos.pdb
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.dll
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.pdb
+D:\1_Cursos_Dev\CSharp_udemy\Contratos\Contratos\obj\Debug\netcoreapp3.1\Contratos.genruntimeconfig.cache
